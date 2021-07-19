@@ -5,7 +5,7 @@ This is the Project Description.
 * License: CC-BY 4.0 / MIT
 
 ## Goal
-This Folder serves as a Meta Level to organize Projects.
+This Folder serves as a Meta Level to organize a Project.
 
 ## Usage
 * The Repository of Code / Content goes into the ``repo`` folder.
@@ -18,5 +18,5 @@ This Folder serves as a Meta Level to organize Projects.
 ## Installation
 Agnostic to Version Control, example with git:
 
-* Clone Template: ``git clone ``
+* Clone Template into working directory: ``git clone https://github.com/zipacna/project-template.git``
 * Clone Project Repo: ``git clone https://your.domain/your/repo.git repo``
